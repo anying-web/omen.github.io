@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to omen （预兆）
 
 You can use the [editor on GitHub](https://github.com/anying-web/omen.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
